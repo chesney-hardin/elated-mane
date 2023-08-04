@@ -1,0 +1,16 @@
+{
+    "python.linting.pylintEnabled": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Elated Mane",
+            "database": "${workspaceFolder:levelup}/db.sqlite3"
+        }
+    ],
+    "python.testing.cwd": "tests",
+    "python.linting.pylintArgs": [
+        "--load-plugins=pylint_django",
+        "--django-settings-module=levelup.settings",
+    ],
+}

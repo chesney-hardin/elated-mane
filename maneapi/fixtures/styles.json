@@ -1,0 +1,23 @@
+[
+    {
+        "model": "maneapi.hairstyle",
+        "pk": 1,
+        "fields": {
+            "label": "Pixie"
+        }
+    },
+    {
+        "model": "maneapi.hairstyle",
+        "pk": 2,
+        "fields": {
+            "label": "Bob"
+        }
+    },
+    {
+        "model": "maneapi.hairstyle",
+        "pk": 3,
+        "fields": {
+            "label": "Curly"
+        }
+    }
+]

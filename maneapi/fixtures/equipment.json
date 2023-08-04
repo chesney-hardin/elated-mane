@@ -1,0 +1,112 @@
+[
+    {
+        "model": "maneapi.equipment",
+        "pk": 1,
+        "fields": {
+            "stylist": 4,
+            "type": 2,
+            "manufacturer": "Umber Inc",
+            "cost": 48.34,
+            "purchase_date": "2023-02-02"
+        }
+    },
+    {
+        "model": "maneapi.equipment",
+        "pk": 2,
+        "fields": {
+            "stylist": 3,
+            "type": 1,
+            "manufacturer": "perspiciatis-omnis-nostrum",
+            "cost": 564.12,
+            "purchase_date": "2023-02-02"
+        }
+    },
+    {
+        "model": "maneapi.equipment",
+        "pk": 3,
+        "fields": {
+            "stylist": 3,
+            "type": 3,
+            "manufacturer": "voluptas-est-vel",
+            "cost": 902.49,
+            "purchase_date": "2023-02-02"
+        }
+    },
+    {
+        "model": "maneapi.equipment",
+        "pk": 4,
+        "fields": {
+            "stylist": 4,
+            "type": 2,
+            "manufacturer": "soluta-exercitationem-dolor",
+            "cost": 73.12,
+            "purchase_date": "2023-02-02"
+        }
+    },
+    {
+        "model": "maneapi.equipment",
+        "pk": 5,
+        "fields": {
+            "stylist": 5,
+            "type": 2,
+            "manufacturer": "rerum-facere-iste",
+            "cost": 48.34,
+            "purchase_date": "2023-02-02"
+        }
+    },
+    {
+        "model": "maneapi.equipment",
+        "pk": 6,
+        "fields": {
+            "stylist": 5,
+            "type": 3,
+            "manufacturer": "ut-eos-rem",
+            "cost": 48.34,
+            "purchase_date": "2023-02-02"
+        }
+    },
+    {
+        "model": "maneapi.equipment",
+        "pk": 7,
+        "fields": {
+            "stylist": 4,
+            "type": 3,
+            "manufacturer": "vel-sint-quo",
+            "cost": 48.34,
+            "purchase_date": "2023-02-02"
+        }
+    },
+    {
+        "model": "maneapi.equipment",
+        "pk": 8,
+        "fields": {
+            "stylist":3,
+            "type": 1,
+            "manufacturer": "aut-minima-ad",
+            "cost": 48.34,
+            "purchase_date": "2023-02-02"
+        }
+    },
+    {
+        "model": "maneapi.equipment",
+        "pk": 9,
+        "fields": {
+            "stylist": 3,
+            "type": 3,
+            "manufacturer": "officiis-est-labore",
+            "cost": 48.34,
+            "purchase_date": "2023-02-02"
+        }
+    },
+    {
+        "model": "maneapi.equipment",
+        "pk": 10,
+        "fields": {
+            "stylist": 5,
+            "type": 1,
+            "manufacturer": "similique-perferendis-id",
+            "cost": 48.34,
+            "purchase_date": "2023-02-02"
+        }
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "model": "maneapi.equipmenttype",
+        "pk": 1,
+        "fields": {
+            "label": "Seating"
+        }
+    },
+    {
+        "model": "maneapi.equipmenttype",
+        "pk": 2,
+        "fields": {
+            "label": "Styling"
+        }
+    },
+    {
+        "model": "maneapi.equipmenttype",
+        "pk": 3,
+        "fields": {
+            "label": "Grooming"
+        }
+    }
+]
